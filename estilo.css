@@ -1,0 +1,173 @@
+body {
+    color: #21022d;
+    font-family: 'Cabin', sans-serif;
+    margin: 0;
+}
+
+
+h2:not(.menu) {
+    text-align: center;
+    margin-top: 64px;
+    margin-bottom: 32px;
+}
+
+h3 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+    display: inline;
+    font-weight: bold;
+}
+
+.topo {
+    color: white;
+    background-color: #21022d;
+    border: 8px solid #21022d;
+    text-align: center;
+    position: relative;
+}
+
+#vitanina {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 100px;
+    display: inline;
+
+}
+
+#cima {
+    text-align: center;
+    float: right;
+    position: relative;
+}
+
+.menu {
+    font-family: 'Kaushan Script', cursive;
+    letter-spacing: 3px;
+    font-size: 50px;
+    margin-top: 0px 0px 0px 0px;
+    background-color: #e2d8e7;
+    border-top: 16px solid #e2d8e7;
+    border-left: 16px solid #e2d8e7;
+}
+
+.ocorpo{
+    background-color: #e2d8e7;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+#corpo1 {
+    padding: 15px;
+    border-radius: 16px;
+    background-color: rgb(127, 228, 127);
+    margin: 15px 15px 15px 15px;
+}
+
+.abacate {
+    float: right;
+    border-radius: 16px;
+    width: 200px;
+    height: auto;
+}
+
+#corpo2 {
+    padding: 15px;
+    border-radius: 16px;
+    background-color: #6c4785;
+    text-align: right;
+    margin: 15px 15px 15px 15px;
+}
+
+.acai {
+    float: left;
+    border-radius: 16px;
+    width: 200px;
+    height: auto;
+}
+
+#corpo3 {
+    padding: 15px;
+    border-radius: 16px;
+    background-color: #dfeb37;
+    margin: 15px 15px 15px 15px;
+}
+
+.banana {
+    float: right;
+    border-radius: 16px;
+    width: 275px;
+    height: auto;
+}
+
+#corpo4 {
+    padding: 15px;
+    border-radius: 16px;
+    background-color: #ffa1eb;
+    text-align: right;
+    margin: 15px 15px 15px 15px;
+}
+
+.morango {
+    float: left;
+    border-radius: 16px;
+    width: 285px;
+    height: auto;
+}
+
+#corpo5 {
+    padding: 15px;
+    border-radius: 16px;
+    background-color: #d3a96b;
+    margin: 15px 15px 15px 15px;
+}
+
+.pessego {
+    float: right;
+    border-radius: 16px;
+    width: 220px;
+    height: auto;
+}
+
+#corpo6 {
+    padding: 15px;
+    border-radius: 16px;
+    background-color: #c2341b;
+    text-align: right;
+    margin: 15px 15px 15px 15px;
+}
+
+.roma {
+    float: left;
+    border-radius: 16px;
+    width: 235px;
+    height: auto;
+}
+
+#lactose {
+    background-color: #e2d8e7;
+    border-top: 64px solid #e2d8e7;
+    border-left: 64px solid #e2d8e7;
+    border-bottom: 16px solid #e2d8e7;
+}
+
+.destac {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+#fim {
+    border-bottom: 32px solid #e2d8e7;
+}
+
+.logo {
+    float: left;
+    display: inline;
+    width: 105px;
+    height: auto;
+}
